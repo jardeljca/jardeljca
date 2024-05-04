@@ -9,7 +9,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
+<br>
 <div align = "center">
   Eu sou um estudante do terceiro semestre de análise e desenvovimento de sistemas, apaixonado por tecnologia!
 
