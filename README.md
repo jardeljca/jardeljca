@@ -4,7 +4,7 @@
   </a>
 </p>
 <div align = "center">
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+  
 </div>
 <div align = "center">
   Eu sou um estudante do terceiro semestre de análise e desenvovimento de sistemas, apaixonado por tecnologia!
