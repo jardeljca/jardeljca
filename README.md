@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align = "center">
-  Eu sou um estudante do terceiro semestre de análise e desenvovimento de sistemas, apaixonado por tecnologia!
+  Eu sou um estudante do quarto semestre de análise e desenvovimento de sistemas, apaixonado por tecnologia!
 
   Estudo em paralelo HTML, CSS e javaScript no front-end e Java no back-end
 </div>
