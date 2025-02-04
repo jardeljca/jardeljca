@@ -13,7 +13,7 @@
 <div align = "center">
   Eu sou um estudante do quinto semestre de análise e desenvovimento de sistemas, apaixonado por tecnologia!
 
-  Estudo em paralelo HTML, CSS e javaScript no front-end e Java no back-end
+  Estudo em paralelo HTML, CSS e javaScript no front-end e Java no back-end. <br> <a href="https://jardel-queiroz.netlify.app/">Meu portifólio</a>
 </div>
 
 <div align="center">
